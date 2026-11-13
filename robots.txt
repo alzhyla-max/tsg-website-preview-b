@@ -1,0 +1,7 @@
+# Prototype: block all crawling until launch. At launch replace with:
+#   User-agent: *
+#   Allow: /
+#   Disallow: /admin/
+#   Sitemap: https://taxsolutions.au/sitemap-index.xml
+User-agent: *
+Disallow: /
